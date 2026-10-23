@@ -1,0 +1,97 @@
+LICENSES / ЛИЦЕНЗИИ СТОРОННИХ КОМПОНЕНТОВ
+=========================================
+
+Smart Grabber использует следующие открытые компоненты.
+This program uses the following open-source components.
+
+
+------------------------------------------------------------
+Dear ImGui  (в составе программы / bundled)  -  MIT
+https://github.com/ocornut/imgui
+------------------------------------------------------------
+The MIT License (MIT)
+
+Copyright (c) 2014-2026 Omar Cornut
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+------------------------------------------------------------
+nlohmann/json  (json.hpp, в составе программы / bundled)  -  MIT
+https://github.com/nlohmann/json
+------------------------------------------------------------
+The MIT License (MIT)
+
+Copyright (c) 2013-2023 Niels Lohmann
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+------------------------------------------------------------
+yt-dlp  (НЕ входит в программу, скачивается при первом запуске)
+(NOT bundled; downloaded on first run)  -  Unlicense (public domain)
+https://github.com/yt-dlp/yt-dlp
+------------------------------------------------------------
+yt-dlp is released into the public domain under the Unlicense.
+See https://unlicense.org and the project repository for details.
+
+
+------------------------------------------------------------
+FFmpeg  (НЕ входит в программу, скачивается при первом запуске)
+(NOT bundled; downloaded on first run)  -  GPL
+https://ffmpeg.org   |   сборки / builds: https://github.com/yt-dlp/FFmpeg-Builds
+------------------------------------------------------------
+FFmpeg is a separate program that Smart Grabber downloads and runs as an
+external executable. It is licensed under the GNU General Public License.
+Source code and license text: https://ffmpeg.org/legal.html and the repository above.
+Smart Grabber does not include FFmpeg code in its own binary.
+
+
+------------------------------------------------------------
+Deno  (НЕ входит в программу, скачивается при первом запуске)
+(NOT bundled; downloaded on first run)  -  MIT
+https://github.com/denoland/deno
+------------------------------------------------------------
+Copyright 2018-2026 the Deno authors. MIT License.
+https://github.com/denoland/deno/blob/main/LICENSE.md
+
+
+------------------------------------------------------------
+Название и товарные знаки / Trademarks
+------------------------------------------------------------
+YouTube и Google - товарные знаки их владельцев. Smart Grabber не связан с ними,
+не одобрен и не спонсируется ими.
+YouTube and Google are trademarks of their respective owners. This program is
+not affiliated with, endorsed or sponsored by them.
