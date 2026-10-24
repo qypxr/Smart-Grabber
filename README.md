@@ -1,4 +1,4 @@
-# Smart Grabber
+<img src="banner_smart_grabber.svg" width="100%" alt="Smart Grabber" />
 
 Программа с графическим интерфейсом для скачивания видео с YouTube в высоком качестве, вплоть до 4K. Написана на C++ с использованием Dear ImGui и DirectX 11 (Windows).
 
